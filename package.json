@@ -1,0 +1,12 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Este projeto é uma API de autenticação desenvolvida com Spring Boot e JWT (JSON Web Token), permitindo o registro de usuários, login seguro e controle de acesso por perfil (roles), como \"usuário comum\" e \"administrador\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
